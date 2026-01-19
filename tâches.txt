@@ -1,0 +1,213 @@
+section1 - people 
+p1 - person1 - patricia
+p2 - person2 - benette
+p3 - person3 - jean 
+
+
+
+section2 - house map
+salon
+toilette
+couloir 
+balcon salon 
+balcon couloir
+
+
+
+
+section3 - type de taches
+balayer
+passer la serpieller
+essuyer
+mettre en order 
+faire le course
+depoussierer 
+checking 
+
+
+
+
+
+
+
+
+section4 - list de taches
+
+
+faire le course - resource
+
+checking - kwh 
+checking - largent de depense
+
+passer la serpillere - salon, couloir
+passer la serpillere - toillet, balcons
+
+balayer - salon, couloir, toilet
+balayer - balcon
+
+mettre en ordre - salon
+mettre en ordre - couloir
+mettre en ordre - balcon
+mettre en order - toile d'araignee 
+mettre en ordre - ustensiles de la cuisine
+mettre en ordre - poubelle 
+
+nettoyer - frigo
+nettoyer - portes
+nettoyer - vitre
+nettoyer - wc
+nettoyer - mini baignoire
+nettoyer - lavabo de cuisine, toilette
+nettoyer - mur et contour du baignoire
+nettoyer - mur de la cuisine 
+nettoyer - meubles de la cuisine
+nettoyer - autre meuble 
+nettoyer - balai, dost mop, mop
+nettoyer - four 
+nettoyer - rechaud a gaz 
+nettoyer - machine a laver 
+
+
+depoussierer - frigo 
+depoussierer - portes
+depoussierer - vitre 
+depoussierer - meubles 
+depoussierer - meubles de la cuisine
+depoussierer - autre meuble 
+depoussierer - tapis de portes
+depoussierer - fauteuil
+depoussierer - rideau pliable
+
+
+
+
+
+
+
+
+
+
+
+section5 - thinking
+
+
+//le taches le plus dure 
+balayer - salon, couloir, toilet
+balayer - balcon
+
+passer la serpillere - salon, couloir
+passer la serpillere - toillet, balcons
+
+nettoyer - frigo
+nettoyer - rechaud a gaz 
+nettoyer - portes
+nettoyer - mini baignoire
+nettoyer - mur et contour du baignoire
+nettoyer - meubles de la cuisine
+nettoyer - autre meuble 
+nettoyer - vitre
+nettoyer - mur de la cuisine 
+nettoyer - four
+
+
+
+
+
+
+//moins dure 
+faire le course - resource
+
+nettoyer - balai, dost mop
+nettoyer - wc
+nettoyer - machine a laver 
+
+checking - kwh 
+checking - largent de depense
+
+depoussierer - frigo 
+depoussierer - portes
+depoussierer - vitre 
+depoussierer - meubles 
+depoussierer - meubles de la cuisine
+depoussierer - autre meuble 
+depoussierer - tapis de portes
+depoussierer - fauteuil
+
+mettre en ordre - salon
+mettre en ordre - couloir
+mettre en ordre - balcon
+mettre en order - toile d'araignee 
+mettre en ordre - ustensiles de la cuisine
+mettre en ordre - poubelle 
+
+
+
+
+
+
+
+section6 - repartion de taches
+
+
+faire le course - resource
+
+checking - kwh 
+checking - largent de depense
+
+passer la serpillere - salon, couloir
+passer la serpillere - toillet, balcons
+
+balayer - salon, couloir, toilet
+balayer - balcon
+
+mettre en ordre - salon
+mettre en ordre - couloir
+mettre en ordre - balcon
+mettre en order - toile d'araignee 
+mettre en ordre - ustensiles de la cuisine
+p3 mettre en ordre - poubelle 
+
+nettoyer - frigo
+p3 nettoyer - rechaud a gaz
+nettoyer - portes
+nettoyer - vitre
+nettoyer - wc
+nettoyer - mini baignoire
+nettoyer - mur et contour du baignoire
+nettoyer - meubles de la cuisine
+nettoyer - autre meuble 
+nettoyer - mur de la cuisine 
+p3 nettoyer - balai, dost mop, mop
+
+depoussierer - frigo 
+depoussierer - portes
+depoussierer - vitre 
+depoussierer - meubles 
+depoussierer - meubles de la cuisine
+depoussierer - autre meuble 
+depoussierer - tapis de portes
+depoussierer - fauteuil
+
+
+
+
+
+section7 - calcul
+
+total nombre de taches 35
+taches dure 13
+moins dure 22
+
+
+
+jean 3
+benette ...
+patricia ...
+
+
+
+
+
+
+section8 - monthly track(junction file)
+
