@@ -40,7 +40,7 @@ checking - kwh
 checking - largent de depense
 
 passer la serpillere - salon, couloir
-passer la serpillere - toillet, balcons
+passer la serpillere - toilette, balcons
 
 balayer - salon, couloir, toilet
 balayer - balcon
@@ -54,30 +54,31 @@ mettre en ordre - poubelle
 
 nettoyer - frigo
 nettoyer - portes
-nettoyer - vitre
+nettoyer - vitre du salon
 nettoyer - wc
 nettoyer - mini baignoire
 nettoyer - lavabo de cuisine, toilette
 nettoyer - mur et contour du baignoire
 nettoyer - mur de la cuisine 
 nettoyer - meubles de la cuisine
-nettoyer - autre meuble 
+nettoyer - autre meuble du salon, couloir
 nettoyer - balai, dost mop, mop
 nettoyer - four 
 nettoyer - rechaud a gaz 
 nettoyer - machine a laver 
+nettoyer - fenettre de la douche 
+nettoyer - kitchen vacuum
 
 
 depoussierer - frigo 
 depoussierer - portes
-depoussierer - vitre 
-depoussierer - meubles 
+depoussierer - vitre du sallon
 depoussierer - meubles de la cuisine
-depoussierer - autre meuble 
+depoussierer - autre meuble du salon, couloir
 depoussierer - tapis de portes
 depoussierer - fauteuil
 depoussierer - rideau pliable
-
+depoussierer - fenettre de la douche 
 
 
 
@@ -96,7 +97,7 @@ balayer - salon, couloir, toilet
 balayer - balcon
 
 passer la serpillere - salon, couloir
-passer la serpillere - toillet, balcons
+passer la serpillere - toilette, balcons
 
 nettoyer - frigo
 nettoyer - rechaud a gaz 
@@ -120,6 +121,7 @@ faire le course - resource
 nettoyer - balai, dost mop
 nettoyer - wc
 nettoyer - machine a laver 
+nettoyer - lavabo de cuisine, toilette
 
 checking - kwh 
 checking - largent de depense
@@ -155,7 +157,7 @@ checking - kwh
 checking - largent de depense
 
 passer la serpillere - salon, couloir
-passer la serpillere - toillet, balcons
+passer la serpillere - toilette, balcons
 
 balayer - salon, couloir, toilet
 balayer - balcon
@@ -168,26 +170,28 @@ mettre en ordre - ustensiles de la cuisine
 p3 mettre en ordre - poubelle 
 
 nettoyer - frigo
-p3 nettoyer - rechaud a gaz
 nettoyer - portes
 nettoyer - vitre
 nettoyer - wc
 nettoyer - mini baignoire
+nettoyer - lavabo de cuisine, toilette
 nettoyer - mur et contour du baignoire
+nettoyer - mur de la cuisine 
 nettoyer - meubles de la cuisine
 nettoyer - autre meuble 
-nettoyer - mur de la cuisine 
 p3 nettoyer - balai, dost mop, mop
+nettoyer - four 
+p3 nettoyer - rechaud a gaz 
+nettoyer - machine a laver 
 
 depoussierer - frigo 
 depoussierer - portes
 depoussierer - vitre 
-depoussierer - meubles 
 depoussierer - meubles de la cuisine
 depoussierer - autre meuble 
 depoussierer - tapis de portes
 depoussierer - fauteuil
-
+depoussierer - rideau 
 
 
 

@@ -3,9 +3,9 @@ electricité
 gas
 internet
 savon pour assiette 
-savon pour la cuve
-savon de toilet
-savon en pousiere 
+savon pour wc 
+savon de toilette
+savon en poussiere 
 frotoir en chiffon pour assiette 
 frotoir en metal pour assiette 
 papier hygenique
@@ -21,38 +21,79 @@ wall protector' clear, contact paper self adhesive, oil proof, waterproof sticke
 outilles de nettoyage
 gant jetable 
 eau mineral
+dentifrice
+home fragrance
 
 
 
 section2 - bucket list
 2250 electricité, 6kwh 
-1065 gas, 1.5 bouteille de gaz 
-45 savon pour assiette 
-60 frotoir en metal pour assiette 
+710 gas, 1 bouteille de gaz 
 180 eau mineral 
-poubelle
-chassé poubelle big 
-wall protector
+600 poubelle pour la toilette
+90 chassé poubelle big 
+200 wall protector
+
+
+//bill 300
+chassé poubelle small
+poubelle de sallon 
+frotoir en metal pour assiette 
+45 savon pour assiette 
+pouvelle de la toilette 
+
 
 
 
 section3 - calcul 
 e-outcome
-3600' 1200 chacun 
+4330
+
+
+
+//special
+
+patricia = 2250/3 + 600/3 + 180/2 ≈ 1010
+
+x = 4330 - patricia ≈ 3320
+
+y = x/2 ≈ 1660
+
+
+
+//claim
+jean 1480
+benette 1750 
+patricia 1100
+
+
+
+
+//wallet somme mamquante
+jean 375
+benette 1450
+patricia 1100
+
+
 
 
 section4 - wallet
 
-jean 00tl
-benette 00tl 
+
+jean 1105
+benette 300
 patricia 00tl
 
 
-used 00tl
-left 00tl
+used 300
+left 1105
 
 
 
+//claim
+jean 180
+benette 00tl 
+patricia 00tl
 
 
 
@@ -60,3 +101,12 @@ section5 - monthly track (junction file)
 
 
 
+
+
+section6 - bucket list item manquant
+2250 electricité, 6kwh 
+710 gas, 1 bouteille de gaz 
+180 eau mineral 
+600 poubelle pour la toilette
+90 chassé poubelle big 
+200 wall protector
