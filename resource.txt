@@ -8,7 +8,7 @@ savon de toilette
 savon en poussiere 
 frotoir en chiffon pour assiette 
 frotoir en metal pour assiette 
-papier hygenique
+papier hygienique
 poubelle
 chassé poubelle small
 chassé poubelle big 
@@ -30,7 +30,7 @@ section2 - bucket list
 2250 electricité, 6kwh 
 710 gas, 1 bouteille de gaz 
 180 eau mineral 
-600 poubelle pour la toilette
+600 poubelle de toilette
 90 chassé poubelle big 
 200 wall protector
 
@@ -61,7 +61,7 @@ y = x/2 ≈ 1660
 
 
 
-//claim
+//claim vs outcome 
 jean 1480
 benette 1750 
 patricia 1100

@@ -38,6 +38,7 @@ faire le course - resource
 
 checking - kwh 
 checking - largent de depense
+checking - la caisse
 
 passer la serpillere - salon, couloir
 passer la serpillere - toilette, balcons
