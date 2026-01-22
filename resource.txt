@@ -85,8 +85,8 @@ benette 1050
 patricia 00tl
 
 
-used 300
-left 1855
+used 1010
+left 1145
 
 
 
@@ -105,7 +105,6 @@ section5 - monthly track (junction file)
 
 section6 - bucket list item manquant
 2250 electricité, 6kwh 
-710 gas, 1 bouteille de gaz 
 180 eau mineral 
 600 poubelle pour la toilette
 90 chassé poubelle big 

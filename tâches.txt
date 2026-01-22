@@ -69,7 +69,8 @@ nettoyer - rechaud a gaz
 nettoyer - machine a laver 
 nettoyer - fenettre de la douche 
 nettoyer - kitchen vacuum
-
+netroyer - egouttoir a vaiselle
+nettoyer - serviette de cuisine 
 
 depoussierer - frigo 
 depoussierer - portes
@@ -110,7 +111,6 @@ nettoyer - autre meuble
 nettoyer - vitre
 nettoyer - mur de la cuisine 
 nettoyer - four
-
 
 
 
