@@ -72,7 +72,9 @@ patricia 1100
 //wallet somme manquante
 jean 375
 benette 700
-patricia 1100
+patricia 100
+
+tot 1175
 
 
 
@@ -82,11 +84,11 @@ section4 - wallet
 
 jean 1105
 benette 1050
-patricia 00tl
+patricia 1000
 
 
 used 1010
-left 1145
+left 2145
 
 
 
@@ -105,7 +107,9 @@ section5 - monthly track (junction file)
 
 section6 - bucket list item manquant
 2250 electricité, 6kwh 
-180 eau mineral 
+180 eau minerale 
 600 poubelle pour la toilette
 90 chassé poubelle big 
 200 wall protector
+
+

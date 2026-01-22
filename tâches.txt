@@ -126,6 +126,7 @@ nettoyer - lavabo de cuisine, toilette
 
 checking - kwh 
 checking - largent de depense
+checking - accountability 
 
 depoussierer - frigo 
 depoussierer - portes
@@ -199,9 +200,9 @@ depoussierer - rideau
 
 section7 - calcul
 
-total nombre de taches 37
-taches dure 14
-moins dure 21
+total nombre de taches 38
+taches dure 15
+moins dure 23
 
 
 
