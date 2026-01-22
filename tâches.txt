@@ -199,9 +199,9 @@ depoussierer - rideau
 
 section7 - calcul
 
-total nombre de taches 35
-taches dure 13
-moins dure 22
+total nombre de taches 37
+taches dure 14
+moins dure 21
 
 
 
