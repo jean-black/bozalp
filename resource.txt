@@ -37,10 +37,12 @@ section2 - bucket list
 
 //bill 300
 chassé poubelle small
-poubelle de sallon 
 frotoir en metal pour assiette 
+frotoir en chiffon pour assiette 
 45 savon pour assiette 
-pouvelle de la toilette 
+150 poubelle de salon 
+
+
 
 
 
@@ -108,7 +110,7 @@ section5 - monthly track (junction file)
 section6 - bucket list item manquant
 2250 electricité, 6kwh 
 180 eau minerale 
-600 poubelle pour la toilette
+600 poubelle de toilette
 90 chassé poubelle big 
 200 wall protector
 

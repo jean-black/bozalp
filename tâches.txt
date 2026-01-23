@@ -17,9 +17,9 @@ balcon couloir
 
 section3 - type de taches
 balayer
-passer la serpieller
+passer la serpillere
 essuyer
-mettre en order 
+mettre en ordre
 faire le course
 depoussierer 
 checking 
@@ -37,8 +37,7 @@ section4 - list de taches
 faire le course - resource
 
 checking - kwh 
-checking - largent de depense
-checking - la caisse
+checking - accountsbility 
 
 passer la serpillere - salon, couloir
 passer la serpillere - toilette, balcons
@@ -51,7 +50,7 @@ mettre en ordre - couloir
 mettre en ordre - balcon
 mettre en order - toile d'araignee 
 mettre en ordre - ustensiles de la cuisine
-mettre en ordre - poubelle 
+mettre en ordre - poubelle (sortir)
 
 nettoyer - frigo
 nettoyer - portes
@@ -65,12 +64,13 @@ nettoyer - meubles de la cuisine
 nettoyer - autre meuble du salon, couloir
 nettoyer - balai, dost mop, mop
 nettoyer - four 
-nettoyer - rechaud a gaz 
+nettoyer - rechaud a gaz
 nettoyer - machine a laver 
 nettoyer - fenettre de la douche 
 nettoyer - kitchen vacuum
 netroyer - egouttoir a vaiselle
 nettoyer - serviette de cuisine 
+nettoyer - poubelle
 
 depoussierer - frigo 
 depoussierer - portes
@@ -80,7 +80,7 @@ depoussierer - autre meuble du salon, couloir
 depoussierer - tapis de portes
 depoussierer - fauteuil
 depoussierer - rideau pliable
-depoussierer - fenettre de la douche 
+depoussierer - fenetre de la toilette
 
 
 
@@ -125,7 +125,6 @@ nettoyer - machine a laver
 nettoyer - lavabo de cuisine, toilette
 
 checking - kwh 
-checking - largent de depense
 checking - accountability 
 
 depoussierer - frigo 
@@ -146,6 +145,15 @@ mettre en ordre - poubelle
 
 
 
+//odre de type de taches pour une meilleur performance 
+
+mettre en ordre
+bayer
+nettoyer
+depoussierer
+passer la serpiller
+
+
 
 
 
@@ -154,63 +162,82 @@ section6 - repartion de taches
 
 
 faire le course - resource
-
 checking - kwh 
-checking - largent de depense
-
+p3 checking - accountsbility 
 passer la serpillere - salon, couloir
 passer la serpillere - toilette, balcons
-
 balayer - salon, couloir, toilet
 balayer - balcon
-
 mettre en ordre - salon
 mettre en ordre - couloir
 mettre en ordre - balcon
 mettre en order - toile d'araignee 
 mettre en ordre - ustensiles de la cuisine
-p3 mettre en ordre - poubelle 
-
+p3 mettre en ordre - poubelle (sortir, nettoyer)
 nettoyer - frigo
 nettoyer - portes
-nettoyer - vitre
+nettoyer - vitre du salon
 nettoyer - wc
 nettoyer - mini baignoire
 nettoyer - lavabo de cuisine, toilette
 nettoyer - mur et contour du baignoire
 nettoyer - mur de la cuisine 
 nettoyer - meubles de la cuisine
-nettoyer - autre meuble 
+nettoyer - autre meuble du salon, couloir
 p3 nettoyer - balai, dost mop, mop
 nettoyer - four 
-p3 nettoyer - rechaud a gaz 
+p3 nettoyer - rechaud a gaz
 nettoyer - machine a laver 
-
+nettoyer - fenettre de la douche 
+nettoyer - kitchen vacuum
+netroyer - egouttoir a vaiselle
+nettoyer - serviette de cuisine 
+nettoyer - poubelle
 depoussierer - frigo 
 depoussierer - portes
-depoussierer - vitre 
+depoussierer - vitre du sallon
 depoussierer - meubles de la cuisine
-depoussierer - autre meuble 
+depoussierer - autre meuble du salon, couloir
 depoussierer - tapis de portes
 depoussierer - fauteuil
-depoussierer - rideau 
+depoussierer - rideau pliable
+depoussierer - fenetre de la toilette
 
 
 
 
-section7 - calcul
 
-total nombre de taches 38
+
+section7 task completion history
+
+p3 checking - accountsbility 
+p2 passer la serpillere - salon, couloir
+p2 passer la serpillere - toilette, balcons
+p1 balayer - salon, couloir, toilet
+p2 mettre en ordre - ustensiles de la cuisine
+p1,2 mettre en ordre - poubelle (sortir, nettoyer)
+p3 nettoyer - rechaud a gaz
+p1 nettoyer - autre meuble du salon, couloir
+p1 depoussierer - fauteuil
+
+
+
+
+
+
+
+section8 - calcul
+
+
+total nombre de taches 41
 taches dure 15
-moins dure 23
+moins dure 27
 
 
 
 jean 3
 benette ...
 patricia ...
-
-
 
 
 
