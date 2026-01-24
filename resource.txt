@@ -68,6 +68,8 @@ jean 1480
 benette 1750 
 patricia 1100
 
+formule = e-outcome de chacun - (claim de la personne - (sum de claim de autres/2))
+
 
 
 
@@ -77,6 +79,18 @@ benette 700
 patricia 1100
 
 tot 2175
+
+
+
+//Fair share distribution 
+jean 
+benette 
+patricia 
+
+formule = (argent donné / tot argent donné) * tot left money 
+
+
+
 
 
 
