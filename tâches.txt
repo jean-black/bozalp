@@ -31,13 +31,13 @@ checking
 
 
 
-section4 - list de taches
+section4 - liste de taches
 
 
 faire le course - resource
 
 checking - kwh 
-checking - accountsbility 
+checking - accountability 
 
 passer la serpillere - salon, couloir
 passer la serpillere - toilette, balcons
@@ -48,7 +48,7 @@ balayer - balcon
 mettre en ordre - salon
 mettre en ordre - couloir
 mettre en ordre - balcon
-mettre en order - toile d'araignee 
+mettre en order - toile d'araignee (eliminer)
 mettre en ordre - ustensiles de la cuisine
 mettre en ordre - poubelle (sortir)
 
@@ -66,19 +66,20 @@ nettoyer - balai, dost mop, mop
 nettoyer - four 
 nettoyer - rechaud a gaz
 nettoyer - machine a laver 
-nettoyer - fenettre de la douche 
+nettoyer - fenettre de la toilette
 nettoyer - kitchen vacuum
 netroyer - egouttoir a vaiselle
 nettoyer - serviette de cuisine 
 nettoyer - poubelle
 
+depoussierer - fauteuil
+depoussierer - ac 
 depoussierer - frigo 
 depoussierer - portes
 depoussierer - vitre du sallon
 depoussierer - meubles de la cuisine
 depoussierer - autre meuble du salon, couloir
 depoussierer - tapis de portes
-depoussierer - fauteuil
 depoussierer - rideau pliable
 depoussierer - fenetre de la toilette
 
@@ -112,20 +113,27 @@ nettoyer - vitre
 nettoyer - mur de la cuisine 
 nettoyer - four
 
+checking - accountability 
 
+nettoyer - balai, dost mop, mop
 
+mettre en ordre - salon
+mettre en ordre - couloir
+mettre en ordre - balcon
 
 
 //moins dure 
 faire le course - resource
 
-nettoyer - balai, dost mop
 nettoyer - wc
 nettoyer - machine a laver 
 nettoyer - lavabo de cuisine, toilette
+netroyer - egouttoir a vaiselle
+nettoyer - serviette de cuisine 
+nettoyer - poubelle
+nettoyer - kitchen vacuum
 
 checking - kwh 
-checking - accountability 
 
 depoussierer - frigo 
 depoussierer - portes
@@ -135,10 +143,9 @@ depoussierer - meubles de la cuisine
 depoussierer - autre meuble 
 depoussierer - tapis de portes
 depoussierer - fauteuil
+depoussierer - rideau pliable
+depoussierer - fenetre de la toilette
 
-mettre en ordre - salon
-mettre en ordre - couloir
-mettre en ordre - balcon
 mettre en order - toile d'araignee 
 mettre en ordre - ustensiles de la cuisine
 mettre en ordre - poubelle 
@@ -148,7 +155,7 @@ mettre en ordre - poubelle
 //odre de type de taches pour une meilleur performance 
 
 mettre en ordre
-bayer
+balayer
 nettoyer
 depoussierer
 passer la serpiller
@@ -158,12 +165,12 @@ passer la serpiller
 
 
 
-section6 - repartion de taches
+section6 - repartition de taches
 
 
 faire le course - resource
 checking - kwh 
-p3 checking - accountsbility 
+p3 checking - accountability 
 passer la serpillere - salon, couloir
 passer la serpillere - toilette, balcons
 balayer - salon, couloir, toilet
@@ -171,9 +178,9 @@ balayer - balcon
 mettre en ordre - salon
 mettre en ordre - couloir
 mettre en ordre - balcon
-mettre en order - toile d'araignee 
+mettre en order - toile d'araignee (eliminer)
 mettre en ordre - ustensiles de la cuisine
-p3 mettre en ordre - poubelle (sortir, nettoyer)
+p3 mettre en ordre - poubelle (sortir)
 nettoyer - frigo
 nettoyer - portes
 nettoyer - vitre du salon
@@ -202,7 +209,7 @@ depoussierer - tapis de portes
 depoussierer - fauteuil
 depoussierer - rideau pliable
 depoussierer - fenetre de la toilette
-
+depoussierer - ac
 
 
 
@@ -211,15 +218,15 @@ depoussierer - fenetre de la toilette
 section7 task completion history
 
 p3 checking - accountsbility 
+p1 balayer - salon, couloir, toilet
+p1 depoussierer - fauteuil
+p1 nettoyer - autre meuble du salon, couloir
 p2 passer la serpillere - salon, couloir
 p2 passer la serpillere - toilette, balcons
-p1 balayer - salon, couloir, toilet
 p2 mettre en ordre - ustensiles de la cuisine
-p1,2 mettre en ordre - poubelle (sortir, nettoyer)
+p2 mettre en ordre - poubelle (sortir)
 p3 nettoyer - rechaud a gaz
-p1 nettoyer - autre meuble du salon, couloir
-p1 depoussierer - fauteuil
-
+p2 mettre en ordre - poubelle (sortir)
 
 
 
@@ -229,7 +236,7 @@ p1 depoussierer - fauteuil
 section8 - calcul
 
 
-total nombre de taches 41
+total nombre de taches 42
 taches dure 15
 moins dure 27
 
@@ -242,5 +249,5 @@ patricia ...
 
 
 
-section8 - monthly track(junction file)
+section9 - monthly track(junction file)
 

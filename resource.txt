@@ -74,9 +74,9 @@ patricia 1100
 //wallet somme manquante
 jean 375
 benette 700
-patricia 100
+patricia 1100
 
-tot 1175
+tot 2175
 
 
 
@@ -86,11 +86,11 @@ section4 - wallet
 
 jean 1105
 benette 1050
-patricia 1000
+patricia 00tl
 
 
 used 1010
-left 2145
+left 1145
 
 
 

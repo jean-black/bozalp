@@ -1,6 +1,6 @@
 faire le course - resource
 checking - kwh 
-checking - accountsbility 
+checking - accountability 
 passer la serpillere - salon, couloir
 passer la serpillere - toilette, balcons
 balayer - salon, couloir, toilet
@@ -8,9 +8,9 @@ balayer - balcon
 mettre en ordre - salon
 mettre en ordre - couloir
 mettre en ordre - balcon
-mettre en order - toile d'araignee 
+mettre en order - toile d'araignee (eliminer)
 mettre en ordre - ustensiles de la cuisine
-mettre en ordre - poubelle 
+mettre en ordre - poubelle (sortir)
 nettoyer - frigo
 nettoyer - portes
 nettoyer - vitre du salon
@@ -29,6 +29,7 @@ nettoyer - fenettre de la douche
 nettoyer - kitchen vacuum
 netroyer - egouttoir a vaiselle
 nettoyer - serviette de cuisine 
+nettoyer - poubelle
 depoussierer - frigo 
 depoussierer - portes
 depoussierer - vitre du sallon
@@ -37,4 +38,5 @@ depoussierer - autre meuble du salon, couloir
 depoussierer - tapis de portes
 depoussierer - fauteuil
 depoussierer - rideau pliable
-depoussierer - fenetre de la douche 
+depoussierer - fenetre de la douche
+depoussierer - ac
