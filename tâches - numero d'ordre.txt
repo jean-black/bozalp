@@ -1,42 +1,45 @@
-faire le course - resource
-checking - kwh 
-checking - accountability 
-passer la serpillere - salon, couloir
-passer la serpillere - toilette, balcons
-balayer - salon, couloir, toilet
-balayer - balcon
-mettre en ordre - salon
-mettre en ordre - couloir
-mettre en ordre - balcon
-mettre en order - toile d'araignee (eliminer)
-mettre en ordre - ustensiles de la cuisine
-mettre en ordre - poubelle (sortir)
-nettoyer - frigo
-nettoyer - portes
-nettoyer - vitre du salon
-nettoyer - wc
-nettoyer - mini baignoire
-nettoyer - lavabo de cuisine, toilette
-nettoyer - mur et contour du baignoire
-nettoyer - mur de la cuisine 
-nettoyer - meubles de la cuisine
-nettoyer - autre meuble du salon, couloir
-nettoyer - balai, dost mop, mop
-nettoyer - four 
-nettoyer - rechaud a gaz
-nettoyer - machine a laver 
-nettoyer - fenettre de la douche 
-nettoyer - kitchen vacuum
+p3 faire le course - resource
+p2 passer la serpillere - salon, couloir
+p3 passer la serpillere - toilette, balcons
+p3 balayer - salon, couloir, toilet
+p2 balayer - balcon
+p3 mettre en ordre - ustensiles de la cuisine
+p2 mettre en ordre - poubelle (sortir)
+p3 nettoyer - frigo
+p2 nettoyer - portes
+p3 nettoyer - vitre du salon
+p3 nettoyer - wc
+p2 nettoyer - mini baignoire
+p2 nettoyer - lavabo de cuisine, toilette
+p2 nettoyer - mur et contour de la baignoire
+p3 nettoyer - mur de la cuisine 
+p2 nettoyer - meubles de la cuisine
+p2 nettoyer - autre meuble du salon, couloir
+p2 nettoyer - balai, dost mop, mop
+p3 nettoyer - four 
+p2 nettoyer - rechaud a gaz
+p2 nettoyer - machine a laver 
+p3 nettoyer - fenettre de la douche 
+p3 nettoyer - kitchen vacuum
 netroyer - egouttoir a vaiselle
-nettoyer - serviette de cuisine 
-nettoyer - poubelle
-depoussierer - frigo 
-depoussierer - portes
-depoussierer - vitre du sallon
-depoussierer - meubles de la cuisine
-depoussierer - autre meuble du salon, couloir
 depoussierer - tapis de portes
 depoussierer - fauteuil
 depoussierer - rideau pliable
-depoussierer - fenetre de la douche
-depoussierer - ac
+depoussierer - fenetre de la toilette
+
+
+
+
+
+//number by frequency 
+daily
+jean 4.6.11.15
+benette 17
+
+weekly
+jean 3.8.23
+benette 2.5.7.12.13.14.18.20.21
+
+monthly 
+jean 1.10.19.22
+benette 9.16

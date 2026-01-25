@@ -36,21 +36,14 @@ section4 - liste de taches
 
 faire le course - resource
 
-checking - kwh 
-checking - accountability 
-
 passer la serpillere - salon, couloir
 passer la serpillere - toilette, balcons
 
 balayer - salon, couloir, toilet
 balayer - balcon
 
-mettre en ordre - salon
-mettre en ordre - couloir
-mettre en ordre - balcon
-mettre en order - toile d'araignee (eliminer)
 mettre en ordre - ustensiles de la cuisine
-mettre en ordre - poubelle (sortir)
+mettre en ordre - poubelle (sortir, nettoyer)
 
 nettoyer - frigo
 nettoyer - portes
@@ -58,7 +51,7 @@ nettoyer - vitre du salon
 nettoyer - wc
 nettoyer - mini baignoire
 nettoyer - lavabo de cuisine, toilette
-nettoyer - mur et contour du baignoire
+nettoyer - mur et contour de la baignoire
 nettoyer - mur de la cuisine 
 nettoyer - meubles de la cuisine
 nettoyer - autre meuble du salon, couloir
@@ -69,16 +62,8 @@ nettoyer - machine a laver
 nettoyer - fenettre de la toilette
 nettoyer - kitchen vacuum
 netroyer - egouttoir a vaiselle
-nettoyer - serviette de cuisine 
-nettoyer - poubelle
 
 depoussierer - fauteuil
-depoussierer - ac 
-depoussierer - frigo 
-depoussierer - portes
-depoussierer - vitre du sallon
-depoussierer - meubles de la cuisine
-depoussierer - autre meuble du salon, couloir
 depoussierer - tapis de portes
 depoussierer - rideau pliable
 depoussierer - fenetre de la toilette
@@ -88,166 +73,116 @@ depoussierer - fenetre de la toilette
 
 
 
+section5 thinking 
 
 
-
-
-section5 - thinking
-
-
-//le taches le plus dure 
-balayer - salon, couloir, toilet
-balayer - balcon
-
-passer la serpillere - salon, couloir
-passer la serpillere - toilette, balcons
-
-nettoyer - frigo
-nettoyer - rechaud a gaz 
-nettoyer - portes
-nettoyer - mini baignoire
-nettoyer - mur et contour du baignoire
-nettoyer - meubles de la cuisine
-nettoyer - autre meuble 
-nettoyer - vitre
-nettoyer - mur de la cuisine 
-nettoyer - four
-
-checking - accountability 
-
-nettoyer - balai, dost mop, mop
-
-mettre en ordre - salon
-mettre en ordre - couloir
-mettre en ordre - balcon
-
-
-//moins dure 
-faire le course - resource
-
-nettoyer - wc
-nettoyer - machine a laver 
-nettoyer - lavabo de cuisine, toilette
-netroyer - egouttoir a vaiselle
-nettoyer - serviette de cuisine 
-nettoyer - poubelle
-nettoyer - kitchen vacuum
-
-checking - kwh 
-
-depoussierer - frigo 
-depoussierer - portes
-depoussierer - vitre 
-depoussierer - meubles 
-depoussierer - meubles de la cuisine
-depoussierer - autre meuble 
-depoussierer - tapis de portes
-depoussierer - fauteuil
-depoussierer - rideau pliable
-depoussierer - fenetre de la toilette
-
-mettre en order - toile d'araignee 
-mettre en ordre - ustensiles de la cuisine
-mettre en ordre - poubelle 
-
-
-
-//odre de type de taches pour une meilleur performance 
-
-mettre en ordre
-balayer
-nettoyer
-depoussierer
-passer la serpiller
-
-
-
-
-
-
-section6 - repartition de taches
-
-
-faire le course - resource
-checking - kwh 
-p3 checking - accountability 
-passer la serpillere - salon, couloir
-passer la serpillere - toilette, balcons
-balayer - salon, couloir, toilet
-balayer - balcon
-mettre en ordre - salon
-mettre en ordre - couloir
-mettre en ordre - balcon
-mettre en order - toile d'araignee (eliminer)
-mettre en ordre - ustensiles de la cuisine
-p3 mettre en ordre - poubelle (sortir)
-nettoyer - frigo
-nettoyer - portes
-nettoyer - vitre du salon
-nettoyer - wc
-nettoyer - mini baignoire
-nettoyer - lavabo de cuisine, toilette
-nettoyer - mur et contour du baignoire
-nettoyer - mur de la cuisine 
-nettoyer - meubles de la cuisine
+//daily
 nettoyer - autre meuble du salon, couloir
-p3 nettoyer - balai, dost mop, mop
-nettoyer - four 
-p3 nettoyer - rechaud a gaz
-nettoyer - machine a laver 
-nettoyer - fenettre de la douche 
+nettoyer - mur de la cuisine
+nettoyer - wc
+mettre en ordre - ustensiles de la cuisine
+balayer - salon, couloir, toilet
+
+
+
+
+//weekly
+depoussierer - rideau pliable
+depoussierer - fauteuil
 nettoyer - kitchen vacuum
 netroyer - egouttoir a vaiselle
-nettoyer - serviette de cuisine 
-nettoyer - poubelle
-depoussierer - frigo 
-depoussierer - portes
-depoussierer - vitre du sallon
-depoussierer - meubles de la cuisine
-depoussierer - autre meuble du salon, couloir
-depoussierer - tapis de portes
-depoussierer - fauteuil
-depoussierer - rideau pliable
+nettoyer - machine a laver 
+nettoyer - rechaud a gaz
+nettoyer - balai, dost mop, mop
+nettoyer - mur et contour de la baignoire
+nettoyer - lavabo de cuisine, toilette
+nettoyer - mini baignoire
+nettoyer - frigo
+mettre en ordre - poubelle (sortir, nettoyer)
+balayer - balcon
+passer la serpillere - salon, couloir
+passer la serpillere - toilette, balcons
+
+
+
+//monthly
 depoussierer - fenetre de la toilette
-depoussierer - ac
+depoussierer - tapis de portes
+nettoyer - fenettre de la toilette
+nettoyer - four 
+nettoyer - meubles de la cuisine
+nettoyer - vitre du salon
+nettoyer - portes
+faire le course - resource
+
+
+//desdline information
+apres 03 jour daily 
+apres 07 jours weekly 
+apres 30 jours monthly
+
+
+//rule 
+le chift sera effectuer en fonction de categories qui sont daily, weekly, monthly
+le chift ne peut pas etre effectuer lorsqu'un membre du groupe n'a pas encore finis d'accomplir se taches 
 
 
 
 
+section5 - repartition de taches
 
-section7 task completion history
 
-p3 checking - accountsbility 
-p1 balayer - salon, couloir, toilet
-p1 depoussierer - fauteuil
-p1 nettoyer - autre meuble du salon, couloir
+//daily
+p2 nettoyer - autre meuble du salon, couloir
+p3 nettoyer - mur de la cuisine
+p3 nettoyer - wc
+p3 mettre en ordre - ustensiles de la cuisine
+p3 balayer - salon, couloir, toilet
+
+
+//weekly
+p2 nettoyer - machine a laver
+p2 nettoyer - rechaud a gaz
+p2 nettoyer - balai, dost mop, mop
+p2 nettoyer - mur et contour de la baignoire
+p2 nettoyer - lavabo de cuisine, toilette
+p2 nettoyer - mini baignoire
+p2 mettre en ordre - poubelle (sortir, nettoyer)
+p2 balayer - balcon
 p2 passer la serpillere - salon, couloir
-p2 passer la serpillere - toilette, balcons
-p2 mettre en ordre - ustensiles de la cuisine
-p2 mettre en ordre - poubelle (sortir)
-p3 nettoyer - rechaud a gaz
-p2 mettre en ordre - poubelle (sortir)
+p3 nettoyer - kitchen vacuum
+p3 nettoyer - frigo
+p3 passer la serpillere - toilette, balcons
+depoussierer - rideau pliable
+depoussierer - fauteuil
+netroyer - egouttoir a vaiselle
+
+
+//monthly
+p2 nettoyer - meubles de la cuisine
+p2 nettoyer - portes
+p3 faire le course - resource
+p3 nettoyer - fenettre de la toilette
+p3 nettoyer - four
+p3 nettoyer - vitre du salon
+depoussierer - fenetre de la toilette
+depoussierer - tapis de portes
 
 
 
+section6 - calcul
+
+
+total nombre de taches 28
 
 
 
-section8 - calcul
-
-
-total nombre de taches 42
-taches dure 15
-moins dure 27
-
-
-
-jean 3
-benette ...
+jean 11
+benette 12
 patricia ...
 
 
 
 
-section9 - monthly track(junction file)
+section7 - monthly track(junction file)
 
