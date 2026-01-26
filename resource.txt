@@ -119,8 +119,8 @@ used 1010
 
 //claim
 jean 180
-benette 00tl 
-patricia 00tl
+benette 00
+patricia 00
 
 
 
@@ -130,6 +130,12 @@ benette 00
 patricia 00
 
 formule = (argent donné / tot argent donné) * tot left money 
+
+
+
+
+//kodefisa
+...
 
 
 

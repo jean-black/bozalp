@@ -66,7 +66,7 @@ netroyer - egouttoir a vaiselle
 depoussierer - fauteuil
 depoussierer - tapis de portes
 depoussierer - rideau pliable
-depoussierer - fenetre de la toilette
+
 
 
 
@@ -165,15 +165,36 @@ p3 faire le course - resource
 p3 nettoyer - fenettre de la toilette
 p3 nettoyer - four
 p3 nettoyer - vitre du salon
-depoussierer - fenetre de la toilette
 depoussierer - tapis de portes
+
+
+
+
+
+//number by frequency 
+daily
+jean 4.6.11.15
+benette 17
+
+weekly
+jean 3.8.23
+benette 2.5.7.12.13.14.18.20.21
+
+monthly 
+jean 1.10.19.22
+benette 9.16
+
+
+
+
+
 
 
 
 section6 - calcul
 
 
-total nombre de taches 28
+total nombre de taches 27
 
 
 
