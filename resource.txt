@@ -29,18 +29,7 @@ balai
 
 section2 - bucket list
 1650 electricité, 6kwh 
-710 gas, 1 bouteille de gaz 
 90 eau mineral 
-
-
-
-//bill 300
-chassé poubelle small
-frotoir en metal pour assiette 
-frotoir en chiffon pour assiette 
-45 savon pour assiette 
-150 poubelle de salon 
-
 
 
 
@@ -56,23 +45,14 @@ partager les facture des paiement effectuer
 
 section4 - calcul 
 e-outcome
-2750
+1740
 
-
-
-//special
-
-patricia = 1650/3 + 90/3 ≈ 580
-
-x = 3730 - patricia ≈ 2170
-
-y = x/2 ≈ 1085
-
+x = 1740/3 = 580
 
 
 //claim vs outcome 
-jean 905
-benette 1175
+jean 400
+benette 670
 patricia 670
 
 formule = e-outcome de chacun - (claim de la personne - (sum of claim de autres/2))
@@ -83,7 +63,7 @@ formule = e-outcome de chacun - (claim de la personne - (sum of claim de autres/
 
 //fair share distribution vs outcome
 jean 00
-benette 00
+benette 52
 patricia 00
 
 formule =  e-outcome de chacun - (argent donné / tot argent donné) * tot left money 
@@ -92,11 +72,11 @@ formule =  e-outcome de chacun - (argent donné / tot argent donné) * tot left 
 
 
 //wallet somme manquante
-jean 348
-benette 618
+jean 00
+benette 52
 patricia 670
 
-tot 1485
+tot 722
 
 
 
@@ -104,12 +84,12 @@ tot 1485
 section5 - wallet
 
 
-jean 587
+jean 400
 benette 557
 patricia 00
 
 
-left 1145
+left 957
 used 00
 
 
@@ -147,6 +127,6 @@ section6 - monthly track (junction file)
 
 section7 - bucket list item manquant
 2250 electricité, 6kwh 
-180 eau minerale 
+90 eau minerale 
 
 
