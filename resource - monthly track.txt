@@ -98,8 +98,8 @@ patricia 00
 
 
 //Fair share distribution 
-jean 00
-benette 00
+jean = (1105/2155)*1145 = 587
+benette = (1105/2155)*1145 = 557
 patricia 00
 
 formule = (argent donné / tot argent donné) * tot left money 
